@@ -1,7 +1,9 @@
 +++
 email = "ashish Sahay"
 image = ""
-social = []
 title = "Ashish Sahay"
+[[social]]
+icon = ""
+link = ""
 
 +++
