@@ -1,5 +1,5 @@
 baseURL = "https://ashish-sahay.netlify.com"
-disableLanguages = []
+disableLanguages = [""]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
